@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="112" fill="#0b1420"/><circle cx="256" cy="240" r="160" fill="#49d4a3"/><path d="M158 240h196" stroke="#063529" stroke-width="35" stroke-linecap="round"/><text x="256" y="448" text-anchor="middle" fill="#f3f7fb" font-family="Arial,sans-serif" font-size="48" font-weight="bold">CeQur</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>InsuTap</title>
+  <defs>
+    <linearGradient id="itInk" x1="0" x2="1" y1="1" y2="0">
+      <stop stop-color="#073b79"/>
+      <stop offset="1" stop-color="#176fc3"/>
+    </linearGradient>
+    <linearGradient id="itOrbit" x1="0" x2="1">
+      <stop stop-color="#28c5bd"/>
+      <stop offset="1" stop-color="#04aab6"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="105" fill="#ffffff"/>
+  <g transform="translate(46 129) scale(2.7)">
+    <path d="M13 72C-2 87 36 91 79 73C118 57 150 26 137 12C128 2 112 6 96 12" fill="none" stroke="url(#itOrbit)" stroke-width="3.2" stroke-linecap="round"/>
+    <g transform="translate(27 17) skewX(-14)" fill="url(#itInk)">
+      <path d="M4 2h20L13 58H-7Z"/>
+      <path d="M31 2h77l-4 15H76L67 58H47l9-41H27Z"/>
+    </g>
+  </g>
+</svg>
