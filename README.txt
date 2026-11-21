@@ -1,4 +1,4 @@
-CeQur Simplicity Tracker — iPhone Home Screen web app
+Tracker — iPhone Home Screen web app
 
 HOW TO INSTALL (GitHub Pages, free HTTPS hosting)
 1. On a computer, sign in to github.com and create a PUBLIC repository named cequr-tracker. Note: the app code is public, but your dose data is stored locally on your phone and is not uploaded to GitHub.
