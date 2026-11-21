@@ -1,1 +1,19 @@
-{"name":"CeQur Simplicity Tracker","short_name":"CeQur","description":"Manual CeQur patch insulin inventory tracker","start_url":"./index.html","display":"standalone","background_color":"#0b1420","theme_color":"#0b1420","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "InsuTap",
+  "short_name": "InsuTap",
+  "description": "Every unit. One tap.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1769C2",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
